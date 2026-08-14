@@ -1,6 +1,5 @@
 ### 自由研究
-<span style="font-size:30px;font-weight:bold;"> センサー融合について</span> <br><span style="font-size:20px;">　　　　　　　　　　　　　　　　　　　5年1組　白鳥景一</span>
-<hr>
+# センサー融合について <br><span style="font-size:20px;">　　　　　　　　　　　　　　　　　　　5年1組　白鳥景一</span>
 
 ## 目的
 **センサーを組み合わせることで、どのようにデメリットを補い合えるかを実験する**
